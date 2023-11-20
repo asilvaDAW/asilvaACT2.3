@@ -7,7 +7,7 @@ Este es un repositorio creado con la finalidad de hacer una actividad del módul
 ### README.md
 this file
 ### index.html
-`<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@ this file
         <li>Despliegue de aplicaciones WEB</li>
     </ul>
 </body>
-</html>`
+</html>```
 ### .gitignore
 ### pablito.jpeg
 ![alt text](pablito.jpeg)

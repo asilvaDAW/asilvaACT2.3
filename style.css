@@ -8,6 +8,6 @@ li{
     list-style: disc;
     text-decoration: dashed;
 }
-.colorfondo{
+#colorfondo{
     display: none;
 }

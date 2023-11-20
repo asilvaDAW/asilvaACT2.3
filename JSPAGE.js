@@ -1,13 +1,13 @@
-function cambiacolor(){
+function cambiacolor() {
     debugger;
-    let color = document.getElementById("colorfondo").innerHTML;
-    if (color == "azul") {
-
-        document.getElementsByTagName("body")[0].style.backgroundColor = "red";
-        color.innerHTML = "rojo";
+    let color = document.getElementById("colorfondo").innerText;
+  
+    if (color === "azul") {
+      document.getElementsByTagName("body")[0].style.backgroundColor = "red";
+      document.getElementById("colorfondo").innerText = "rojo";
+    } else if (color === "rojo") {
+      document.getElementsByTagName("body")[0].style.backgroundColor = "rgb(199, 233, 204)";
+      document.getElementById("colorfondo").innerText = "azul";
     }
-    if (color == "rojo") {
-        document.getElementsByTagName("body")[0].style.backgroundColor = "rgb(53, 107, 109)";
-        color.innerHTML = "azul";
-    }
-}
+  }
+  

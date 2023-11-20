@@ -7,6 +7,20 @@ Este es un repositorio creado con la finalidad de hacer una actividad del módul
 ### README.md
 this file
 ### index.html
+`<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Modulos de desarrollo de aplicaciones WEB</h1>
+    <ul>
+        <li>Despliegue de aplicaciones WEB</li>
+    </ul>
+</body>
+</html>`
 ### .gitignore
 ### pablito.jpeg
 ![alt text](pablito.jpeg)

@@ -1,4 +1,5 @@
 function cambiacolor(){
+    debugger;
     color = document.getElementById("colorfondo").innerText;
     if (color == "azul") {
 

@@ -20,7 +20,9 @@ this file
         <li>Despliegue de aplicaciones WEB</li>
     </ul>
 </body>
-</html>```
+</html>
+```
 ### .gitignore
+[archivo](https://github.com/asilvaDAW/asilvaACT2.3/blob/main/.gitignore)
 ### pablito.jpeg
 ![alt text](pablito.jpeg)

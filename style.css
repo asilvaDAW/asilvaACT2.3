@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(199, 233, 204);
+}
+h1{
+    color: rgb(53, 107, 109);
+}
+li{
+    list-style: disc;
+    text-decoration: dashed;
+}
+.colorfondo{
+    display: none;
+}

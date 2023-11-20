@@ -11,3 +11,9 @@ li{
 #colorfondo{
     display: none;
 }
+a{
+    text-decoration: none;
+    color: black;
+    background-color: cadetblue;
+    border: 1px solid black;
+}

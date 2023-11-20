@@ -8,3 +8,4 @@ this file
 ### index.html
 ### .gitignore
 ### pablito.jpeg
+!(pablito.jpeg)

@@ -8,4 +8,4 @@ this file
 ### index.html
 ### .gitignore
 ### pablito.jpeg
-! [alt text] (pablito.jpeg)
+![alt text](pablito.jpeg)

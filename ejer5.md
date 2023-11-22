@@ -27,15 +27,15 @@ También podemos hacer listas multinivel
     1. Item 2.1
     2. Item 2.2
 
- ## Segunda parte del examen de DAW
- ### Enlaces e imágenes (0.2 ptos)
+ # Segunda parte del examen de DAW
+ ## Enlaces e imágenes (0.2 ptos)
 Podemos poner un enlace a [www.iesabastos.org](www.iesabastos.org)
 
- Imágenes
+ ###  Imágenes
 O podemos insertar una imagen
 ![pulgar arriba](pulgar_arriba.jpg)
 
- Código (0.2 ptos)
+ ## Código (0.2 ptos)
 Podemos resaltar líneas de código, como: `var saludo='Hola Mundo'`
 
 Y también podemos resaltar bloques de código
@@ -47,7 +47,6 @@ console.log(linea.reverse().join(' '));
 
 **Y si ponemos el lenguaje (_javascript_) a continuación de la primera marca de bloque de código, se resalta en el formato de ese lenguaje!!**
 ``` javascript
-
 var linea = readline();
 linea = linea.split(' ');
 console.log(linea.reverse().join(' '));
